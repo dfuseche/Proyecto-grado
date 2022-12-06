@@ -81,6 +81,9 @@ git clone https://github.com/necalero/WizardChess
 
 7. Finalmente, de click en el botón Build and Run para construir el APK y ejecutarlo desde su dispositivo. 
 
+### Instalar con APK
+Para instalar el APK, se debe tener instalado SIDEQUEST en el computador donde se encuentra el APK de Wizard Chess. Una vez se tenga configurado SIDEQUEST, se debe conectar el casco de realidad virtual Quest 2 al computador y verificar su conexión en la aplicación SIDEQUEST. Luego, se debe seleccionar la opción de “Instalar archivo APK desde computador” y seleccionar el APK de Wizard Chess. Al finalizar, la aplicación se puede encontrar en la sección de “Fuentes desconocidas” del Quest 2. 
+
 ### Instrucciones de juego
 
 - Para iniciar la partida, haga click en el botón A
