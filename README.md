@@ -33,7 +33,7 @@ Software:
 
 ### Instrucciones para configurar ambiente de trabajo: 
 
-1. **Git Bash**: Para instalar Git bash, dirijase a la siguiente página https://git-scm.com/downloads y seleccione la versión correspondiente a su sistema operativo. Siga las instrucciones que se presentan en el instalador hasta terminar la instalación.
+1. **Plastic SCM**: Para instalar Git Plastic, dirijase a la siguiente página https://www.plasticscm.com/download y seleccione la versión correspondiente a su sistema operativo. Siga las instrucciones que se presentan en el instalador hasta terminar la instalación.
 
 2. **Unity Hub**: Para instalar Unity, se debe dirigir a la página de Unity e instalar [Unity Hub](https://unity.com/download). Asegurese de elegir el archivo correspondiente a su sistema operativo.
 
